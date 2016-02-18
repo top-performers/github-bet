@@ -3,7 +3,7 @@ Ara Abcarians and Ian Moersen have a bet about GitHub's future.
 
 
 ##The Bet
-*On February 18, 2018, GitHub's most recent valuation will be less than $500 million.*
+*On February 18, 2019, GitHub's most recent valuation will be less than $500 million.*
 
 Ian (@i-a-n) has proposed this. Ara (@itsmeara) has accepted.
 
