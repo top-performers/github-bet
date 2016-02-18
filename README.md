@@ -1,4 +1,7 @@
 # github-bet
+
+<img src="http://i.giphy.com/CHmwA02GQ6aTS.gif" alt="Official handshake">
+
 Ara Abcarians and Ian Moersen have a bet about GitHub's future. 
 
 
