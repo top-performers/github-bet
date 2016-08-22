@@ -19,3 +19,5 @@ The winner must take the loser out for a weekend in Las Vegas. This includes tra
 ##The Log
 
 Github's best recent valuations will be posted to this repository semi-regularly, with info including the dollar amount valued and a brief summary of how this number was decided.
+
+[Valuations &raquo;](VALUATION.md)
