@@ -1,12 +1,16 @@
-<h1 align="center">CURRENT BEST-GUESS VALUATION: $2 billion</h1>
+<h1 align="center">FINAL VALUATION: $7.5 billion</h1>
 
-According to multiple sources, GitHub raised over $200 million on or around JULY 29, 2015, valuing the company as a whole at nearly $2 billion.
+REDMOND, Wash. — June 4, 2018 — Microsoft Corp. on Monday announced it has reached an agreement to acquire GitHub, the world’s leading software development platform where more than 28 million developers learn, share and collaborate to create the future, for $7.5 billion.
 
-[Source: Fortune.com](http://fortune.com/2015/07/29/github-raises-250-million-in-new-funding-now-valued-at-2-billion/)
+[Source: Microsoft.com](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 
 <hr>
 
 ## Relevant News and Happenings
+
+### 2019-01-31: IT'S OVER
+
+> As GitHub was acquired last year by Microsoft for $7.5 billion (15x Ian's predicted valuation for the bet), it's safe to say this one is over. #thatsawrap
 
 ### 2016-10-07: GITHUB FACES POSSIBLE DOWN-ROUND
 
